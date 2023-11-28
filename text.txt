@@ -1,1 +1,1 @@
-create text.txt
+create into student value ( 1 ,"name", "age"," depatment")
